@@ -50,9 +50,9 @@ The dataset contains patient health information such as:
 ---
 
 ## 🤖 Model Training
-Two models were trained:
+one models was trained:
 1. Logistic Regression
-2. K-Nearest Neighbors (KNN)
+
 
 ---
 
@@ -60,17 +60,10 @@ Two models were trained:
 The models were evaluated using:
 - Confusion Matrix
 - Accuracy
-- Precision
-- Recall
-- F1-score
-- ROC Curve
-- AUC Score
+  
 
 ---
 
-## 📌 Conclusion
-Logistic Regression showed better performance compared to KNN.  
-Important factors influencing readmission include BMI, Blood Pressure, Cholesterol, and Diabetes status.
 
 ---
 
